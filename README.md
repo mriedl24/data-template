@@ -6,6 +6,11 @@ starting template for project
 
 ---
 
-[] Task 1
-[] Task 2
-[] Task 3
+[ ] Task 1
+[ ] Task 2
+[ ] Task 3
+
+### Change Log
+
+- 2024-12-17 mr added new items
+- 2024-12-18 mr removed items
